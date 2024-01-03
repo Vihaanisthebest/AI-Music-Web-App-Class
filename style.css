@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+
+#song
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    box-shadow: 3px 3px 3px rgb(180, 180, 180);
+}
+
+#note
+{
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
